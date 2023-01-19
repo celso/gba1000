@@ -16,7 +16,11 @@ The GB A1000 is a motherboard based on the Amiga 1000. The project was developed
 
 I will attempt to build a GBA1000 this year, this repo will host all the information and research work needed.
 
-See the [FAQ](FAQ.md) from the old gba1000.info website.
+## Sections
+
+* [FAQ](FAQ.md) from the old gba1000.info website.
+* [Schematics][schematics/]
+* [Assembly Drawings][assembly-drawings/]
 
 ### Relevant links
 
