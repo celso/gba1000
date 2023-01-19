@@ -19,8 +19,8 @@ I will attempt to build a GBA1000 this year, this repo will host all the informa
 ## Sections
 
 * [FAQ](FAQ.md) from the old gba1000.info website.
-* [Schematics][schematics/]
-* [Assembly Drawings][assembly-drawings/]
+* [Schematics](schematics/)
+* [Assembly Drawings](assembly-drawings/)
 
 ### Relevant links
 
