@@ -20,6 +20,10 @@ Rev 5 adds a 68040 / 68060 CPU at 50MHz but there are no public schematics for i
 
 I will attempt to build a GBA1000 this year, this repo will host all the information and research work needed.
 
+## PCB
+
+* [Amiga EagleCAD library](https://gitlab.com/MHeinrichs/Amiga-EagleCAD-library)
+
 ## Parts
 
 * [Parts list](https://docs.google.com/spreadsheets/d/1qbaFgtlkgim4g9IzhCKldIigHErPgWEHpMMWoZS-UCM/edit?usp=sharing) (spreadsheet)
@@ -51,5 +55,6 @@ I will attempt to build a GBA1000 this year, this repo will host all the informa
 
 * [Rev4 PCB locator AmigaWiki](http://www.amigawiki.org/loc7/locator7.php)
 * [Illuwatar's  A1000 build project](http://www.illuwatar.se/project_pages/gba1000/gba1000.htm)
+* [GBA1000 v4 build in French](http://obligement.free.fr/articles/gba1000v4.php)
 * [www.gba1000.info (archived)](https://web.archive.org/web/20090430084403/http://www.gba1000.info/disclaimer.asp?returnpage=partslist.asp)
 * [GBA1000 Jumpers](http://www.amigawiki.de/lib/exe/fetch.php?media=de:models:gba1000_jumper.pdf)
